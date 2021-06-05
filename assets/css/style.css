@@ -1,0 +1,17 @@
+* {
+  font-family: Raleway,sans-serif;
+}
+
+nav {
+  background-color: #373A3C;
+}
+
+.bg-image {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 82px;
+  font-weight: bold;
+}
